@@ -1,0 +1,8 @@
+[
+  {
+    "titulo": "auto",
+    "precio": 1200,
+    "stock": 12,
+    "codigo": "123456"
+  }
+]
